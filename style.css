@@ -15,3 +15,11 @@ button{
   color: rgb(56, 26, 83);
   font-family: "UnifrakturMaguntia", cursive;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
